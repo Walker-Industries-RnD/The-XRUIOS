@@ -1,0 +1,24 @@
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Systems.deps.json
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Systems.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Systems.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\KeeperOfTomes.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\PariahCybersecurity.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\Secure Store.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Contracts.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Core.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Interfaces.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\YuukoProtocol.XRUIOS.Interfaces.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Contracts.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Core.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\YuukoProtocol.XRUIOS.Interfaces.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\bin\Debug\net10.0\XRUIOS.Interfaces.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\XRUIOS.Systems.csproj.AssemblyReference.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\XRUIOS.Systems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\XRUIOS.Systems.AssemblyInfoInputs.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\XRUIOS.Systems.AssemblyInfo.cs
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\XRUIOS.Systems.csproj.CoreCompileInputs.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\XRUIOS.S.8E7B5F23.Up2Date
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\XRUIOS.Systems.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\refint\XRUIOS.Systems.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\XRUIOS.Systems.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Systems\obj\Debug\net10.0\ref\XRUIOS.Systems.dll

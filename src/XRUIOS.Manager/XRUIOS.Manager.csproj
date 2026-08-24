@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>XRUIOS.Manager</RootNamespace>
+    <AssemblyName>XRUIOS.Manager</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XRUIOS.SecureLayer\XRUIOS.SecureLayer.csproj" />
+    <ProjectReference Include="..\XRUIOS.Contracts\XRUIOS.Contracts.csproj" />
+    <ProjectReference Include="..\XRUIOS.Core\XRUIOS.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.57.2" />
+    <PackageReference Include="Standart.Hash.xxHash" Version="4.0.5" />
+    <PackageReference Include="MessagePack" Version="3.1.8" />
+    <PackageReference Include="Konscious.Security.Cryptography.Argon2" Version="1.3.1" />
+    <PackageReference Include="System.Security.Cryptography.ProtectedData" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="9.0.0" />
+  </ItemGroup>
+
+  <!-- Referenced DLLs consumed as binaries. -->
+  <ItemGroup>
+    <Reference Include="PermissionHandler"><HintPath>..\..\libs\PermissionHandler.dll</HintPath></Reference>
+    <Reference Include="NotaryCore"><HintPath>..\..\libs\NotaryCore.dll</HintPath></Reference>
+    <Reference Include="NotaryShared"><HintPath>..\..\libs\NotaryShared.dll</HintPath></Reference>
+    <Reference Include="EclipseProject"><HintPath>..\..\libs\EclipseProject.dll</HintPath></Reference>
+    <Reference Include="EclipseLCL"><HintPath>..\..\libs\EclipseLCL.dll</HintPath></Reference>
+    <Reference Include="PariahCybersecurity"><HintPath>..\..\libs\PariahCybersecurity.dll</HintPath></Reference>
+    <Reference Include="KeeperOfTomes"><HintPath>..\..\libs\KeeperOfTomes.dll</HintPath></Reference>
+  </ItemGroup>
+
+</Project>

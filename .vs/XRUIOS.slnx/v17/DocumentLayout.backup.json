@@ -1,0 +1,1435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\appprovisioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\appprovisioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\eclipsesecureclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\eclipsesecureclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\notaryguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\notaryguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\publicacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\publicacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\secureworkerhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\secureworkerhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\workerannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\workerannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\workerocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\workerocean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\xruiosenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\xruiosenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\identityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\identityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\xruios.manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\xruios.manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D761513-257E-20D5-0C53-0AD07376DF75}|src\\XRUIOS.Core\\XRUIOS.Core.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.core\\xruios.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D761513-257E-20D5-0C53-0AD07376DF75}|src\\XRUIOS.Core\\XRUIOS.Core.csproj|solutionrelative:src\\xruios.core\\xruios.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF0245D-332C-BD2F-F757-E4E1E9AC9FA0}|src\\XRUIOS.Diagnostics\\XRUIOS.Diagnostics.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.diagnostics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF0245D-332C-BD2F-F757-E4E1E9AC9FA0}|src\\XRUIOS.Diagnostics\\XRUIOS.Diagnostics.csproj|solutionrelative:src\\xruios.diagnostics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D363672F-2029-E584-500A-427FF3C0CCFF}|src\\XRUIOS.SampleApp\\XRUIOS.SampleApp.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.sampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D363672F-2029-E584-500A-427FF3C0CCFF}|src\\XRUIOS.SampleApp\\XRUIOS.SampleApp.csproj|solutionrelative:src\\xruios.sampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9F536-809F-17D5-2ACC-2B4805177A50}|src\\XRUIOS.AetherModTest\\XRUIOS.AetherModTest.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.aethermodtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA9F536-809F-17D5-2ACC-2B4805177A50}|src\\XRUIOS.AetherModTest\\XRUIOS.AetherModTest.csproj|solutionrelative:src\\xruios.aethermodtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\applauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\applauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\appregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\appregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\autostartinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\autostartinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\brokerrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\brokerrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\certificatevault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\certificatevault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\keyauthority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\keyauthority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\managerhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\managerhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\notaryverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\notaryverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\servicehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\servicehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\singletonguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\singletonguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\workercatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\workercatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\workerdescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\workerdescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\workersessionpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\workersessionpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.manager\\xruioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B96A0-E025-6E8B-5115-A821300B495B}|src\\XRUIOS.Manager\\XRUIOS.Manager.csproj|solutionrelative:src\\xruios.manager\\xruioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D761513-257E-20D5-0C53-0AD07376DF75}|src\\XRUIOS.Core\\XRUIOS.Core.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.core\\xruios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D761513-257E-20D5-0C53-0AD07376DF75}|src\\XRUIOS.Core\\XRUIOS.Core.csproj|solutionrelative:src\\xruios.core\\xruios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A784BA-A89E-C324-9F83-33A598C77BB8}|src\\XRUIOS.Contracts\\XRUIOS.Contracts.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.contracts\\permissiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A784BA-A89E-C324-9F83-33A598C77BB8}|src\\XRUIOS.Contracts\\XRUIOS.Contracts.csproj|solutionrelative:src\\xruios.contracts\\permissiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A784BA-A89E-C324-9F83-33A598C77BB8}|src\\XRUIOS.Contracts\\XRUIOS.Contracts.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.contracts\\ixruioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A784BA-A89E-C324-9F83-33A598C77BB8}|src\\XRUIOS.Contracts\\XRUIOS.Contracts.csproj|solutionrelative:src\\xruios.contracts\\ixruioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28BF212-896D-1646-7F93-D60708C6DF34}|src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.calendar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28BF212-896D-1646-7F93-D60708C6DF34}|src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj|solutionrelative:src\\workers\\xruios.worker.calendar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28BF212-896D-1646-7F93-D60708C6DF34}|src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.calendar\\calendarcapabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28BF212-896D-1646-7F93-D60708C6DF34}|src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj|solutionrelative:src\\workers\\xruios.worker.calendar\\calendarcapabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28BF212-896D-1646-7F93-D60708C6DF34}|src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\calendarclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28BF212-896D-1646-7F93-D60708C6DF34}|src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj|solutionrelative:src\\systems\\calendarclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FB4794-8434-0AB0-BE74-04183874DDE5}|src\\workers\\XRUIOS.Worker.WorldEvents\\WorldEvents.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.worldevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FB4794-8434-0AB0-BE74-04183874DDE5}|src\\workers\\XRUIOS.Worker.WorldEvents\\WorldEvents.csproj|solutionrelative:src\\workers\\xruios.worker.worldevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45ACE502-EF2B-2941-F232-6F4269532AC7}|src\\workers\\XRUIOS.Worker.Volume\\Volume.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.volume\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45ACE502-EF2B-2941-F232-6F4269532AC7}|src\\workers\\XRUIOS.Worker.Volume\\Volume.csproj|solutionrelative:src\\workers\\xruios.worker.volume\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FB4794-8434-0AB0-BE74-04183874DDE5}|src\\workers\\XRUIOS.Worker.WorldEvents\\WorldEvents.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.worldevents\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FB4794-8434-0AB0-BE74-04183874DDE5}|src\\workers\\XRUIOS.Worker.WorldEvents\\WorldEvents.csproj|solutionrelative:src\\workers\\xruios.worker.worldevents\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA9F536-809F-17D5-2ACC-2B4805177A50}|src\\XRUIOS.AetherModTest\\XRUIOS.AetherModTest.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.aethermodtest\\xruios.aethermodtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EA9F536-809F-17D5-2ACC-2B4805177A50}|src\\XRUIOS.AetherModTest\\XRUIOS.AetherModTest.csproj|solutionrelative:src\\xruios.aethermodtest\\xruios.aethermodtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196FBFA8-3903-0EA6-9C04-85F07675A304}|src\\workers\\XRUIOS.Worker.Processes\\Processes.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196FBFA8-3903-0EA6-9C04-85F07675A304}|src\\workers\\XRUIOS.Worker.Processes\\Processes.csproj|solutionrelative:src\\systems\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863ABB4-F29E-159B-F723-C317AEED7519}|src\\workers\\XRUIOS.Worker.Clipboard\\Clipboard.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.clipboard\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863ABB4-F29E-159B-F723-C317AEED7519}|src\\workers\\XRUIOS.Worker.Clipboard\\Clipboard.csproj|solutionrelative:src\\workers\\xruios.worker.clipboard\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863ABB4-F29E-159B-F723-C317AEED7519}|src\\workers\\XRUIOS.Worker.Clipboard\\Clipboard.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\clipboardclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863ABB4-F29E-159B-F723-C317AEED7519}|src\\workers\\XRUIOS.Worker.Clipboard\\Clipboard.csproj|solutionrelative:src\\systems\\clipboardclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A863ABB4-F29E-159B-F723-C317AEED7519}|src\\workers\\XRUIOS.Worker.Clipboard\\Clipboard.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.clipboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A863ABB4-F29E-159B-F723-C317AEED7519}|src\\workers\\XRUIOS.Worker.Clipboard\\Clipboard.csproj|solutionrelative:src\\workers\\xruios.worker.clipboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D93DCE-29FB-36DF-2A1D-DAA6C53B2AE1}|src\\workers\\XRUIOS.Worker.Creator\\Creator.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.creator\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D93DCE-29FB-36DF-2A1D-DAA6C53B2AE1}|src\\workers\\XRUIOS.Worker.Creator\\Creator.csproj|solutionrelative:src\\workers\\xruios.worker.creator\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D93DCE-29FB-36DF-2A1D-DAA6C53B2AE1}|src\\workers\\XRUIOS.Worker.Creator\\Creator.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\creatorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D93DCE-29FB-36DF-2A1D-DAA6C53B2AE1}|src\\workers\\XRUIOS.Worker.Creator\\Creator.csproj|solutionrelative:src\\systems\\creatorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0326E5-17E3-92B4-103D-FE96D51D3918}|src\\workers\\XRUIOS.Worker.DataManager\\DataManager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\datamanagerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0326E5-17E3-92B4-103D-FE96D51D3918}|src\\workers\\XRUIOS.Worker.DataManager\\DataManager.csproj|solutionrelative:src\\systems\\datamanagerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0326E5-17E3-92B4-103D-FE96D51D3918}|src\\workers\\XRUIOS.Worker.DataManager\\DataManager.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.datamanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0326E5-17E3-92B4-103D-FE96D51D3918}|src\\workers\\XRUIOS.Worker.DataManager\\DataManager.csproj|solutionrelative:src\\workers\\xruios.worker.datamanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\soundeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\soundeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\mediaalbumclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\mediaalbumclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\appclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\appclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.securelayer\\xruios.securelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AA7280B-29C0-250F-9DB7-2171CB8906D4}|src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj|solutionrelative:src\\xruios.securelayer\\xruios.securelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\noteclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\noteclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\soundeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\soundeq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\syncengineclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\syncengineclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\facadeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\facadeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\xruios.usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\xruios.usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\yuukoprotocol.xruios.interfaces\\bindings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|solutionrelative:src\\yuukoprotocol.xruios.interfaces\\bindings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\yuukoprotocol.xruios.interfaces\\directoryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|solutionrelative:src\\yuukoprotocol.xruios.interfaces\\directoryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\yuukoprotocol.xruios.interfaces\\handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|solutionrelative:src\\yuukoprotocol.xruios.interfaces\\handle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\yuukoprotocol.xruios.interfaces\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|solutionrelative:src\\yuukoprotocol.xruios.interfaces\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\yuukoprotocol.xruios.interfaces\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|solutionrelative:src\\yuukoprotocol.xruios.interfaces\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\yuukoprotocol.xruios.interfaces\\resolvedmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|solutionrelative:src\\yuukoprotocol.xruios.interfaces\\resolvedmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\yuukoprotocol.xruios.interfaces\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CADD75F-5478-FFC3-C343-E0081E3CEAA2}|src\\YuukoProtocol.XRUIOS.Interfaces\\YuukoProtocol.XRUIOS.Interfaces.csproj|solutionrelative:src\\yuukoprotocol.xruios.interfaces\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBDA0F73-6054-B931-A629-48AABB0BD1A8}|src\\workers\\XRUIOS.Worker.SoundEQ\\SoundEQ.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.soundeq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBDA0F73-6054-B931-A629-48AABB0BD1A8}|src\\workers\\XRUIOS.Worker.SoundEQ\\SoundEQ.csproj|solutionrelative:src\\workers\\xruios.worker.soundeq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\appclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\appclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\mediatagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\mediatagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\creatorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\creatorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\chronoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\chronoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3182B6-9791-288B-8635-60DDC5845C74}|src\\workers\\XRUIOS.Worker.MediaAlbum\\MediaAlbum.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.mediaalbum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3182B6-9791-288B-8635-60DDC5845C74}|src\\workers\\XRUIOS.Worker.MediaAlbum\\MediaAlbum.csproj|solutionrelative:src\\workers\\xruios.worker.mediaalbum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3182B6-9791-288B-8635-60DDC5845C74}|src\\workers\\XRUIOS.Worker.MediaAlbum\\MediaAlbum.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.mediaalbum\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3182B6-9791-288B-8635-60DDC5845C74}|src\\workers\\XRUIOS.Worker.MediaAlbum\\MediaAlbum.csproj|solutionrelative:src\\workers\\xruios.worker.mediaalbum\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\identityclass.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\identityclass.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\identityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\identityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28BF212-896D-1646-7F93-D60708C6DF34}|src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\workers\\xruios.worker.calendar\\xruios.worker.calendar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C28BF212-896D-1646-7F93-D60708C6DF34}|src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj|solutionrelative:src\\workers\\xruios.worker.calendar\\xruios.worker.calendar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\mediatagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\mediatagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\xruios.interfaces\\functions\\geoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C0A964-72CC-4DEA-0FFC-4C7550CE8118}|src\\XRUIOS.Interfaces\\XRUIOS.Interfaces.csproj|solutionrelative:src\\xruios.interfaces\\functions\\geoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|c:\\users\\walkerdev\\documents\\github\\xruios\\src\\systems\\volumeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C04FA4B-4082-340B-3F41-38C9125AE40B}|src\\XRUIOS.Systems\\XRUIOS.Systems.csproj|solutionrelative:src\\systems\\volumeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PublicAcc.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\PublicAcc.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\PublicAcc.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\PublicAcc.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\PublicAcc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T17:07:05.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotaryGuard.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\NotaryGuard.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\NotaryGuard.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\NotaryGuard.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\NotaryGuard.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T16:41:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EclipseSecureClient.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\EclipseSecureClient.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\EclipseSecureClient.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\EclipseSecureClient.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\EclipseSecureClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:17:17.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppProvisioning.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\AppProvisioning.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\AppProvisioning.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\AppProvisioning.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\AppProvisioning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T16:34:15.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecureWorkerHost.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\SecureWorkerHost.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\SecureWorkerHost.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\SecureWorkerHost.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\SecureWorkerHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T17:05:32.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\Permissions.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\Permissions.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\Permissions.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:17:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\Utils.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\Utils.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\Utils.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\Utils.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T17:05:28.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkerAnnouncement.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\WorkerAnnouncement.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\WorkerAnnouncement.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\WorkerAnnouncement.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\WorkerAnnouncement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T17:02:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XruiosEnrollment.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\XruiosEnrollment.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\XruiosEnrollment.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\XruiosEnrollment.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\XruiosEnrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T16:14:24.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkerOcean.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\WorkerOcean.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\WorkerOcean.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\WorkerOcean.cs",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\WorkerOcean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:18:44.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XRUIOS.Manager.csproj",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\XRUIOS.Manager.csproj",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\XRUIOS.Manager.csproj",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\XRUIOS.Manager.csproj",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\XRUIOS.Manager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T08:00:09.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdentityClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\IdentityClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\IdentityClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\IdentityClass.cs",
+              "RelativeToolTip": "src\\systems\\IdentityClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:18:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XRUIOS.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Core\\XRUIOS.Core.csproj",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Core\\XRUIOS.Core.csproj",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Core\\XRUIOS.Core.csproj",
+              "RelativeToolTip": "src\\XRUIOS.Core\\XRUIOS.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T07:56:57.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Diagnostics\\Program.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Diagnostics\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Diagnostics\\Program.cs",
+              "RelativeToolTip": "src\\XRUIOS.Diagnostics\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:46:00.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SampleApp\\Program.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SampleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SampleApp\\Program.cs",
+              "RelativeToolTip": "src\\XRUIOS.SampleApp\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T15:02:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppLauncher.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\AppLauncher.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\AppLauncher.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\AppLauncher.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\AppLauncher.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAmwLkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T02:25:55.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\AppRegistry.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\AppRegistry.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\AppRegistry.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\AppRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:17:46.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutostartInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\AutostartInstaller.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\AutostartInstaller.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\AutostartInstaller.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\AutostartInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T15:26:56.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.AetherModTest\\Program.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.AetherModTest\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.AetherModTest\\Program.cs",
+              "RelativeToolTip": "src\\XRUIOS.AetherModTest\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:57:51.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CertificateVault.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\CertificateVault.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\CertificateVault.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\CertificateVault.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\CertificateVault.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:17:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KeyAuthority.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\KeyAuthority.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\KeyAuthority.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\KeyAuthority.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\KeyAuthority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:17:42.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\LoginService.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\LoginService.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\LoginService.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\LoginService.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T15:20:31.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BrokerRouter.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\BrokerRouter.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\BrokerRouter.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\BrokerRouter.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\BrokerRouter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:17:53.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotaryVerifier.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\NotaryVerifier.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\NotaryVerifier.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\NotaryVerifier.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\NotaryVerifier.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T15:11:46.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\Program.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\Program.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:55:05.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManagerHost.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\ManagerHost.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\ManagerHost.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\ManagerHost.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\ManagerHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:40:14.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\PermissionService.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\PermissionService.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\PermissionService.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\PermissionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:17:59.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServiceHost.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\ServiceHost.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\ServiceHost.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\ServiceHost.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\ServiceHost.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:55:04.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SingletonGuard.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\SingletonGuard.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\SingletonGuard.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\SingletonGuard.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\SingletonGuard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:54:07.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WorkerCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\WorkerCatalog.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\WorkerCatalog.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\WorkerCatalog.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\WorkerCatalog.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:51:05.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WorkerDescriptor.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\WorkerDescriptor.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\WorkerDescriptor.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\WorkerDescriptor.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\WorkerDescriptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:49:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "XruiosContext.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\XruiosContext.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\XruiosContext.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\XruiosContext.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\XruiosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T02:26:01.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PermissionGroup.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Contracts\\PermissionGroup.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Contracts\\PermissionGroup.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Contracts\\PermissionGroup.cs",
+              "RelativeToolTip": "src\\XRUIOS.Contracts\\PermissionGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:16:22.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WorkerSessionPool.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\WorkerSessionPool.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Manager\\WorkerSessionPool.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Manager\\WorkerSessionPool.cs",
+              "RelativeToolTip": "src\\XRUIOS.Manager\\WorkerSessionPool.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T02:19:37.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IXruiosContext.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Contracts\\IXruiosContext.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Contracts\\IXruiosContext.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Contracts\\IXruiosContext.cs",
+              "RelativeToolTip": "src\\XRUIOS.Contracts\\IXruiosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:16:20.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "XRUIOS.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Core\\XRUIOS.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Core\\XRUIOS.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Core\\XRUIOS.cs",
+              "RelativeToolTip": "src\\XRUIOS.Core\\XRUIOS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:17:02.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Calendar\\Program.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.Calendar\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Calendar\\Program.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.Calendar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:21:37.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CalendarCapabilities.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Calendar\\CalendarCapabilities.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.Calendar\\CalendarCapabilities.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Calendar\\CalendarCapabilities.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.Calendar\\CalendarCapabilities.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:15:34.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.WorldEvents\\Program.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.WorldEvents\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.WorldEvents\\Program.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.WorldEvents\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:57:21.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CalendarClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\CalendarClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\CalendarClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\CalendarClass.cs",
+              "RelativeToolTip": "src\\systems\\CalendarClass.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:15:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Capabilities.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Volume\\Capabilities.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.Volume\\Capabilities.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Volume\\Capabilities.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.Volume\\Capabilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:46:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Capabilities.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.WorldEvents\\Capabilities.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.WorldEvents\\Capabilities.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.WorldEvents\\Capabilities.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.WorldEvents\\Capabilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:46:07.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "XRUIOS.AetherModTest",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.AetherModTest\\XRUIOS.AetherModTest.csproj",
+              "RelativeDocumentMoniker": "src\\XRUIOS.AetherModTest\\XRUIOS.AetherModTest.csproj",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.AetherModTest\\XRUIOS.AetherModTest.csproj",
+              "RelativeToolTip": "src\\XRUIOS.AetherModTest\\XRUIOS.AetherModTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-24T01:45:57.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Processes.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\Processes.cs",
+              "RelativeDocumentMoniker": "src\\systems\\Processes.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\Processes.cs",
+              "RelativeToolTip": "src\\systems\\Processes.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAqwMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T15:05:36.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Capabilities.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Clipboard\\Capabilities.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.Clipboard\\Capabilities.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Clipboard\\Capabilities.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.Clipboard\\Capabilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:38:05.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ClipboardClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\ClipboardClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\ClipboardClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\ClipboardClass.cs",
+              "RelativeToolTip": "src\\systems\\ClipboardClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:39:32.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Clipboard\\Program.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.Clipboard\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Clipboard\\Program.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.Clipboard\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:38:07.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Capabilities.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Creator\\Capabilities.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.Creator\\Capabilities.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Creator\\Capabilities.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.Creator\\Capabilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:37:55.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreatorClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\CreatorClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\CreatorClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\CreatorClass.cs",
+              "RelativeToolTip": "src\\systems\\CreatorClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:37:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataManagerClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\DataManagerClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\DataManagerClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\DataManagerClass.cs",
+              "RelativeToolTip": "src\\systems\\DataManagerClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T01:37:42.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Songs.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\Songs.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\Songs.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\Songs.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\Songs.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:43:23.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Processes.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\Processes.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\Processes.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\Processes.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\Processes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:43:22.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SoundEQ.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\SoundEQ.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\SoundEQ.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\SoundEQ.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\SoundEQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:43:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.DataManager\\Program.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.DataManager\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.DataManager\\Program.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.DataManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:19:41.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AppClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\AppClass.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\AppClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\AppClass.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\AppClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:39:03.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "XRUIOS.SecureLayer",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj",
+              "RelativeDocumentMoniker": "src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj",
+              "RelativeToolTip": "src\\XRUIOS.SecureLayer\\XRUIOS.SecureLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-24T00:38:35.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "NoteClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\NoteClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\NoteClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\NoteClass.cs",
+              "RelativeToolTip": "src\\systems\\NoteClass.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAowP4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:31:39.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Songs.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\Songs.cs",
+              "RelativeDocumentMoniker": "src\\systems\\Songs.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\Songs.cs",
+              "RelativeToolTip": "src\\systems\\Songs.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:31:37.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MediaAlbumClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\MediaAlbumClass.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\MediaAlbumClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\MediaAlbumClass.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\MediaAlbumClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:17:18.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SoundEQ.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\SoundEQ.cs",
+              "RelativeDocumentMoniker": "src\\systems\\SoundEQ.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\SoundEQ.cs",
+              "RelativeToolTip": "src\\systems\\SoundEQ.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:31:30.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SyncEngineClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\SyncEngineClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\SyncEngineClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\SyncEngineClass.cs",
+              "RelativeToolTip": "src\\systems\\SyncEngineClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:31:29.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FacadeClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\FacadeClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\FacadeClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\FacadeClass.cs",
+              "RelativeToolTip": "src\\systems\\FacadeClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:31:24.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "XRUIOS.UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\XRUIOS.UserManagement.cs",
+              "RelativeDocumentMoniker": "src\\systems\\XRUIOS.UserManagement.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\XRUIOS.UserManagement.cs",
+              "RelativeToolTip": "src\\systems\\XRUIOS.UserManagement.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:18:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DirectoryRecord.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\DirectoryRecord.cs",
+              "RelativeDocumentMoniker": "src\\YuukoProtocol.XRUIOS.Interfaces\\DirectoryRecord.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\DirectoryRecord.cs",
+              "RelativeToolTip": "src\\YuukoProtocol.XRUIOS.Interfaces\\DirectoryRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:43:55.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\Media.cs",
+              "RelativeDocumentMoniker": "src\\YuukoProtocol.XRUIOS.Interfaces\\Media.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\Media.cs",
+              "RelativeToolTip": "src\\YuukoProtocol.XRUIOS.Interfaces\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:21:01.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FileRecord.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\FileRecord.cs",
+              "RelativeDocumentMoniker": "src\\YuukoProtocol.XRUIOS.Interfaces\\FileRecord.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\FileRecord.cs",
+              "RelativeToolTip": "src\\YuukoProtocol.XRUIOS.Interfaces\\FileRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:13:51.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Bindings.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\Bindings.cs",
+              "RelativeDocumentMoniker": "src\\YuukoProtocol.XRUIOS.Interfaces\\Bindings.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\Bindings.cs",
+              "RelativeToolTip": "src\\YuukoProtocol.XRUIOS.Interfaces\\Bindings.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAA0wNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:19:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Handle.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\Handle.cs",
+              "RelativeDocumentMoniker": "src\\YuukoProtocol.XRUIOS.Interfaces\\Handle.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\Handle.cs",
+              "RelativeToolTip": "src\\YuukoProtocol.XRUIOS.Interfaces\\Handle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:43:26.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ResolvedMedia.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\ResolvedMedia.cs",
+              "RelativeDocumentMoniker": "src\\YuukoProtocol.XRUIOS.Interfaces\\ResolvedMedia.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\ResolvedMedia.cs",
+              "RelativeToolTip": "src\\YuukoProtocol.XRUIOS.Interfaces\\ResolvedMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:20:42.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\App.cs",
+              "RelativeDocumentMoniker": "src\\YuukoProtocol.XRUIOS.Interfaces\\App.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\YuukoProtocol.XRUIOS.Interfaces\\App.cs",
+              "RelativeToolTip": "src\\YuukoProtocol.XRUIOS.Interfaces\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T04:00:57.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.SoundEQ\\Program.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.SoundEQ\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.SoundEQ\\Program.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.SoundEQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T15:06:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AppClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\AppClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\AppClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\AppClass.cs",
+              "RelativeToolTip": "src\\systems\\AppClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:19:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MediaTagger.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\MediaTagger.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\MediaTagger.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\MediaTagger.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\MediaTagger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:17:15.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ChronoClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\ChronoClass.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\ChronoClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\ChronoClass.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\ChronoClass.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T08:17:09.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "MediaTagger.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\MediaTagger.cs",
+              "RelativeDocumentMoniker": "src\\systems\\MediaTagger.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\MediaTagger.cs",
+              "RelativeToolTip": "src\\systems\\MediaTagger.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:18:39.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "XRUIOS.Worker.Calendar.csproj",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.Calendar\\XRUIOS.Worker.Calendar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T01:21:34.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CreatorClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\CreatorClass.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\CreatorClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\CreatorClass.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\CreatorClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:18:14.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IdentityClass.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\IdentityClass.Auth.cs",
+              "RelativeDocumentMoniker": "src\\systems\\IdentityClass.Auth.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\IdentityClass.Auth.cs",
+              "RelativeToolTip": "src\\systems\\IdentityClass.Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:28:55.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Capabilities.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.MediaAlbum\\Capabilities.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.MediaAlbum\\Capabilities.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.MediaAlbum\\Capabilities.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.MediaAlbum\\Capabilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:56:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.MediaAlbum\\Program.cs",
+              "RelativeDocumentMoniker": "src\\workers\\XRUIOS.Worker.MediaAlbum\\Program.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\workers\\XRUIOS.Worker.MediaAlbum\\Program.cs",
+              "RelativeToolTip": "src\\workers\\XRUIOS.Worker.MediaAlbum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:56:26.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "GeoClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\GeoClass.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\GeoClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\GeoClass.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\GeoClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:18:15.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IdentityClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\IdentityClass.cs",
+              "RelativeDocumentMoniker": "src\\XRUIOS.Interfaces\\Functions\\IdentityClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\XRUIOS.Interfaces\\Functions\\IdentityClass.cs",
+              "RelativeToolTip": "src\\XRUIOS.Interfaces\\Functions\\IdentityClass.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:17:09.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "VolumeClass.cs",
+              "DocumentMoniker": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\VolumeClass.cs",
+              "RelativeDocumentMoniker": "src\\systems\\VolumeClass.cs",
+              "ToolTip": "C:\\Users\\WalkerDev\\Documents\\GitHub\\XRUIOS\\src\\systems\\VolumeClass.cs",
+              "RelativeToolTip": "src\\systems\\VolumeClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T01:16:00.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

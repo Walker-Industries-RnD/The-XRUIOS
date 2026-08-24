@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MediaAlbum": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:59500;http://localhost:59501"
+    }
+  }
+}

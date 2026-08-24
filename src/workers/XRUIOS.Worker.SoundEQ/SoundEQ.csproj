@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>XRUIOS.Worker.SoundEQ</RootNamespace>
+    <AssemblyName>XRUIOS.Worker.SoundEQ</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="../../systems/SoundEQ.cs" />
+    <Compile Include="../../systems/ExperimentalVolumeClass.cs" />
+  </ItemGroup>
+
+</Project>

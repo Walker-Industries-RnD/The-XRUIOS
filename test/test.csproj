@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <!-- net9.0 for both shapes: a Singular or an auto-switching Cross-Platform worker is ONE build
+         that runs on Windows and Linux. Platform-specific bodies are guarded with OperatingSystem.Is*
+         and annotated [SupportedOSPlatform], so no per-OS target framework is needed. -->
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <!-- Shared secure-host layer: SecureWorkerHost, WorkerOcean, NotaryGuard, AllowAllPermissionGate. -->
+  <ItemGroup>
+    <ProjectReference Include="..\XRUIOS.Interfaces\XRUIOS.Interfaces.csproj" />
+  </ItemGroup>
+
+  <!-- Direct reference for Eclipse's [SeaOfDirac] attribute (not transitive via the project ref). -->
+  <ItemGroup>
+    <Reference Include="EclipseProject">
+      <HintPath>..\libs\EclipseProject.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

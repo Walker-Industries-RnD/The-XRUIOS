@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>XRUIOS.Worker.Identity</RootNamespace>
+    <AssemblyName>XRUIOS.Worker.Identity</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="../../systems/IdentityClass.cs" />
+    <Compile Include="../../systems/IdentityClass.Auth.cs" />
+    <Compile Include="../../systems/IdentityClass.Accounts.cs" />
+  </ItemGroup>
+
+</Project>

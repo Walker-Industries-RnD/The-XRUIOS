@@ -1,0 +1,16 @@
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\bin\Debug\net10.0\XRUIOS.Core.deps.json
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\bin\Debug\net10.0\XRUIOS.Core.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\bin\Debug\net10.0\XRUIOS.Core.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\bin\Debug\net10.0\PariahCybersecurity.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\bin\Debug\net10.0\XRUIOS.Contracts.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\bin\Debug\net10.0\XRUIOS.Contracts.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\XRUIOS.Core.csproj.AssemblyReference.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\XRUIOS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\XRUIOS.Core.AssemblyInfoInputs.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\XRUIOS.Core.AssemblyInfo.cs
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\XRUIOS.Core.csproj.CoreCompileInputs.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\XRUIOS.C.D3EDB5E1.Up2Date
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\XRUIOS.Core.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\refint\XRUIOS.Core.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\XRUIOS.Core.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Core\obj\Debug\net10.0\ref\XRUIOS.Core.dll

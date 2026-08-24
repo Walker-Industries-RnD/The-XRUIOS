@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "XRUIOS.Core/1.0.0": {
+        "dependencies": {
+          "XRUIOS.Contracts": "1.0.0",
+          "PariahCybersecurity": "1.0.0.1"
+        },
+        "runtime": {
+          "XRUIOS.Core.dll": {}
+        }
+      },
+      "XRUIOS.Contracts/1.0.0": {
+        "runtime": {
+          "XRUIOS.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PariahCybersecurity/1.0.0.1": {
+        "runtime": {
+          "PariahCybersecurity.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XRUIOS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XRUIOS.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PariahCybersecurity/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

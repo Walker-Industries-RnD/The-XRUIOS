@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>XRUIOS.Worker.RecentlyRecorded</RootNamespace>
+    <AssemblyName>XRUIOS.Worker.RecentlyRecorded</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="../../systems/RecentlyRecordedClass.cs" />
+  </ItemGroup>
+
+</Project>

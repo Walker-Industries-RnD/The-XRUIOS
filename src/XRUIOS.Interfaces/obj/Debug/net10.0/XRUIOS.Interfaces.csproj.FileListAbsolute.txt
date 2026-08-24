@@ -1,0 +1,16 @@
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\bin\Debug\net10.0\XRUIOS.Interfaces.deps.json
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\bin\Debug\net10.0\XRUIOS.Interfaces.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\bin\Debug\net10.0\XRUIOS.Interfaces.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\bin\Debug\net10.0\YuukoProtocol.XRUIOS.Interfaces.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\bin\Debug\net10.0\PariahCybersecurity.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\bin\Debug\net10.0\YuukoProtocol.XRUIOS.Interfaces.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\XRUIOS.Interfaces.csproj.AssemblyReference.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\XRUIOS.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\XRUIOS.Interfaces.AssemblyInfoInputs.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\XRUIOS.Interfaces.AssemblyInfo.cs
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\XRUIOS.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\XRUIOS.I.C1DBBBBF.Up2Date
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\XRUIOS.Interfaces.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\refint\XRUIOS.Interfaces.dll
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\XRUIOS.Interfaces.pdb
+C:\Users\WalkerDev\Documents\GitHub\XRUIOS\src\XRUIOS.Interfaces\obj\Debug\net10.0\ref\XRUIOS.Interfaces.dll

@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- Namespace preserved (XRUIOS.Interfaces) so copied secure-layer + worker code compiles 1:1. -->
+    <RootNamespace>XRUIOS.Interfaces</RootNamespace>
+  </PropertyGroup>
+
+  <!-- The secure layer hosts Kestrel + MagicOnion, so it needs the ASP.NET shared framework. -->
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <!-- Versions pinned to match the pre-built Eclipse/Notary DLLs (net8.0) we reference. -->
+  <ItemGroup>
+    <PackageReference Include="MagicOnion" Version="7.10.0" />
+    <PackageReference Include="MagicOnion.Server" Version="7.10.0" />
+    <PackageReference Include="MessagePack" Version="3.1.8" />
+    <PackageReference Include="BouncyCastle.NetCore" Version="2.2.1" />
+    <PackageReference Include="Data.HashFunction.Blake3" Version="3.1.2" />
+    <PackageReference Include="System.Data.HashFunction.Interfaces" Version="2.0.0" />
+    <PackageReference Include="Konscious.Security.Cryptography.Argon2" Version="1.3.1" />
+    <PackageReference Include="EasyCompressor.LZ4" Version="2.1.0" />
+    <PackageReference Include="K4os.Compression.LZ4" Version="1.3.8" />
+    <PackageReference Include="Ceras" Version="4.1.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <!-- Referenced DLLs (Notary, Pariah, Eclipse) - consumed as compiled binaries. -->
+  <ItemGroup>
+    <Reference Include="PariahCybersecurity"><HintPath>..\..\libs\PariahCybersecurity.dll</HintPath></Reference>
+    <Reference Include="EclipseProject"><HintPath>..\..\libs\EclipseProject.dll</HintPath></Reference>
+    <Reference Include="EclipseLCL"><HintPath>..\..\libs\EclipseLCL.dll</HintPath></Reference>
+    <Reference Include="SecureStore"><HintPath>..\..\libs\SecureStore.dll</HintPath></Reference>
+    <Reference Include="NotaryCore"><HintPath>..\..\libs\NotaryCore.dll</HintPath></Reference>
+    <Reference Include="NotaryShared"><HintPath>..\..\libs\NotaryShared.dll</HintPath></Reference>
+  </ItemGroup>
+
+</Project>

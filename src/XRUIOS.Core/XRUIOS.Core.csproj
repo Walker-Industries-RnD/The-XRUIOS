@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- Namespace preserved so copied code's `using static XRUIOS.Barebones.XRUIOS;` compiles 1:1. -->
+    <RootNamespace>XRUIOS.Barebones</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XRUIOS.Contracts\XRUIOS.Contracts.csproj" />
+  </ItemGroup>
+
+  <!-- SecureData + the .ToSecureData() extension. -->
+  <ItemGroup>
+    <Reference Include="PariahCybersecurity">
+      <HintPath>..\..\libs\PariahCybersecurity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

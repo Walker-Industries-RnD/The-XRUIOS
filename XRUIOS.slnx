@@ -1,0 +1,95 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/XRUIOS.AetherModTest/XRUIOS.AetherModTest.csproj" />
+    <Project Path="src/XRUIOS.Contracts/XRUIOS.Contracts.csproj" />
+    <Project Path="src/XRUIOS.Diagnostics/XRUIOS.Diagnostics.csproj" />
+    <Project Path="src/XRUIOS.Core/XRUIOS.Core.csproj" />
+    <Project Path="src/XRUIOS.Interfaces/XRUIOS.Interfaces.csproj" />
+    <Project Path="src/XRUIOS.Manager/XRUIOS.Manager.csproj" />
+    <Project Path="src/XRUIOS.SampleApp/XRUIOS.SampleApp.csproj" />
+    <Project Path="src/XRUIOS.SecureLayer/XRUIOS.SecureLayer.csproj" />
+    <Project Path="src/XRUIOS.Systems/XRUIOS.Systems.csproj" />
+    <Project Path="src/YuukoProtocol.XRUIOS.Interfaces/YuukoProtocol.XRUIOS.Interfaces.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/">
+    <Project Path="src/workers/XRUIOS.Worker.Calendar/XRUIOS.Worker.Calendar.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Alarm/">
+    <Project Path="src/workers/XRUIOS.Worker.Alarm/Alarm.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.App/">
+    <Project Path="src/workers/XRUIOS.Worker.App/App.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.AreaManager/">
+    <Project Path="src/workers/XRUIOS.Worker.AreaManager/AreaManager.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Chrono/">
+    <Project Path="src/workers/XRUIOS.Worker.Chrono/Chrono.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Clipboard/">
+    <Project Path="src/workers/XRUIOS.Worker.Clipboard/Clipboard.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Creator/">
+    <Project Path="src/workers/XRUIOS.Worker.Creator/Creator.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.DataManager/">
+    <Project Path="src/workers/XRUIOS.Worker.DataManager/DataManager.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.DeviceManager/">
+    <Project Path="src/workers/XRUIOS.Worker.DeviceManager/DeviceManager.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.ExperimentalVolume/">
+    <Project Path="src/workers/XRUIOS.Worker.ExperimentalVolume/ExperimentalVolume.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Geo/">
+    <Project Path="src/workers/XRUIOS.Worker.Geo/Geo.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Identity/">
+    <Project Path="src/workers/XRUIOS.Worker.Identity/Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.MediaAlbum/">
+    <Project Path="src/workers/XRUIOS.Worker.MediaAlbum/MediaAlbum.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.MediaTagger/">
+    <Project Path="src/workers/XRUIOS.Worker.MediaTagger/MediaTagger.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.MusicPlayer/">
+    <Project Path="src/workers/XRUIOS.Worker.MusicPlayer/MusicPlayer.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Note/">
+    <Project Path="src/workers/XRUIOS.Worker.Note/Note.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Notification/">
+    <Project Path="src/workers/XRUIOS.Worker.Notification/Notification.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Processes/">
+    <Project Path="src/workers/XRUIOS.Worker.Processes/Processes.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.RecentlyRecorded/">
+    <Project Path="src/workers/XRUIOS.Worker.RecentlyRecorded/RecentlyRecorded.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Songs/">
+    <Project Path="src/workers/XRUIOS.Worker.Songs/Songs.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.SoundEQ/">
+    <Project Path="src/workers/XRUIOS.Worker.SoundEQ/SoundEQ.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Stopwatch/">
+    <Project Path="src/workers/XRUIOS.Worker.Stopwatch/Stopwatch.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.SystemInfo/">
+    <Project Path="src/workers/XRUIOS.Worker.SystemInfo/SystemInfo.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Theme/">
+    <Project Path="src/workers/XRUIOS.Worker.Theme/Theme.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Timer/">
+    <Project Path="src/workers/XRUIOS.Worker.Timer/Timer.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Volume/">
+    <Project Path="src/workers/XRUIOS.Worker.Volume/Volume.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.WorldEvents/">
+    <Project Path="src/workers/XRUIOS.Worker.WorldEvents/WorldEvents.csproj" />
+  </Folder>
+</Solution>

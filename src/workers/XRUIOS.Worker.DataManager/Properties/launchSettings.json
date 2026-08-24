@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DataManager": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:59490;http://localhost:59491"
+    }
+  }
+}

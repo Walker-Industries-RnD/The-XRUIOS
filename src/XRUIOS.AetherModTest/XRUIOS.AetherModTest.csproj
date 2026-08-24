@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>XRUIOS.AetherModTest</RootNamespace>
+    <AssemblyName>XRUIOS.AetherModTest</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.49.1" />
+    <!-- Transitive deps of the Pariah store that raw DLL refs don't pull. -->
+    <PackageReference Include="Ceras" Version="4.1.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="BouncyCastle.NetCore" Version="2.2.1" />
+    <PackageReference Include="Konscious.Security.Cryptography.Argon2" Version="1.3.1" />
+    <PackageReference Include="EasyCompressor.LZ4" Version="2.1.0" />
+    <PackageReference Include="K4os.Compression.LZ4" Version="1.3.8" />
+    <PackageReference Include="Data.HashFunction.Blake3" Version="3.1.2" />
+    <PackageReference Include="System.Data.HashFunction.Interfaces" Version="2.0.0" />
+    <PackageReference Include="Standart.Hash.xxHash" Version="4.0.5" />
+  </ItemGroup>
+
+  <!-- The real XRUIOS.Permission handler + Pariah SecureData - the same gate Aether's CasSandbox uses. -->
+  <ItemGroup>
+    <Reference Include="PermissionHandler"><HintPath>..\..\libs\PermissionHandler.dll</HintPath></Reference>
+    <Reference Include="PariahCybersecurity"><HintPath>..\..\libs\PariahCybersecurity.dll</HintPath></Reference>
+    <Reference Include="Secure Store"><HintPath>..\..\libs\Secure Store.dll</HintPath></Reference>
+  </ItemGroup>
+
+</Project>
