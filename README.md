@@ -15,6 +15,21 @@ This is a project I knew I wanted to make back since 2017 and after thousands of
 
 The XRUIOS.XR library and Linux Distro are next, although keep in mind the XRUIOS works on Linux and Windows right now.
 
+<p align="center">
+  <a href="https://walkerindustries.xyz">Walker Industries</a> •
+  <a href="https://discord.gg/H8h8scsxtH">Discord</a>
+</p>
+
+<p align="center">
+  <a href="https://walker-industries-rnd.github.io/The-XRUIOS/1-start-here/1-welcome.html"
+     style="font-size: 1.4em; color: #58a6ff; text-decoration: none;">
+    <strong>Documentation • Examples • Design</strong>
+  </a>
+</p>
+
+
+
+
 [![Watch the video](docs/assets/The%20XRUIOS%20-%20Making%20Two%20Realities%20One.png)](https://youtube.com)
 
 
