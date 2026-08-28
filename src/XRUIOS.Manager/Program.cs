@@ -28,7 +28,7 @@ AnsiConsole.Write(new Rule("[green]▶[/] [grey]Secure Gateway Active[/] [green]
     .RuleStyle("green dim")
     .Centered());
 
-AnsiConsole.MarkupLine($"[grey][[{DateTime.Now:HH:mm:ss}] System initializing...[/]");
+AnsiConsole.MarkupLine($"[grey][[{DateTime.Now:HH:mm:ss}]] System initializing...[/]");
 AnsiConsole.WriteLine();
 
 string verb = args.Length > 0 ? args[0].ToLowerInvariant() : "run";
