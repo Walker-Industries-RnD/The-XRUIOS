@@ -1,0 +1,9 @@
+<UserControl x:Class="XRUIOS.App.Keyboard.Controls.KeyBoardBed"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- QWERTY key bed. Rows are equal-height stars so keys re-scale with
+         the widget. `KeyHost` is populated by LoadStandardLayout() at
+         runtime; the row/column definitions come from code so the layout
+         stays a single source of truth. -->
+    <Grid x:Name="KeyHost" />
+</UserControl>

@@ -1,0 +1,25 @@
+<Page x:Class="XRUIOS.App.Clipboard.SharePopup"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Width="299" Height="246"
+      Background="Transparent">
+
+    <!-- Second window that belongs to the Clipboard app: the "Share Bar" popup
+         from the mockup folder. Opened as its own PhotinoWindow from
+         Program.cs when the user picks a clip to share. -->
+
+    <Viewbox Stretch="Uniform">
+        <Border Width="299" Height="246"
+                Background="#F1F1F1"
+                CornerRadius="10">
+            <StackPanel Margin="24,20" x:Name="Options">
+                <TextBlock Text="Take A Screenshot"  FontSize="15" Foreground="#111" Margin="0,0,0,8" />
+                <TextBlock Text="Save Written Text"  FontSize="15" Foreground="#111" Margin="0,0,0,8" />
+                <TextBlock Text="Add To Notes"       FontSize="15" Foreground="#111" Margin="0,0,0,8" />
+                <TextBlock Text="Airwave Text"       FontSize="15" Foreground="#111" Margin="0,0,0,8" />
+                <TextBlock Text="Take a Video"       FontSize="15" Foreground="#111" Margin="0,0,0,8" />
+                <TextBlock Text="More Options"       FontSize="15" Foreground="#111" />
+            </StackPanel>
+        </Border>
+    </Viewbox>
+</Page>

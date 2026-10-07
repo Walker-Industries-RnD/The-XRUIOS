@@ -1,0 +1,7 @@
+<UserControl x:Class="XRUIOS.App.Weather.Controls.HeroSky"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Cropped straight from the Weather mockup (Group 2334.png, left 1180px).
+         Swap Source or replace assets/hero.png to iterate on the art. -->
+    <Image Source="assets/hero.png" Stretch="UniformToFill" />
+</UserControl>

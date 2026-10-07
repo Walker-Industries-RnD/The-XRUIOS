@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>XRUIOS.SampleApp</RootNamespace>
+    <AssemblyName>XRUIOS.SampleApp</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XRUIOS.SecureLayer\XRUIOS.SecureLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.49.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EclipseProject"><HintPath>..\..\libs\EclipseProject.dll</HintPath></Reference>
+  </ItemGroup>
+
+</Project>

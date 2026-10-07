@@ -1,0 +1,16 @@
+<UserControl x:Class="XRUIOS.App.Clipboard.Controls.EmojiGroup"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:XRUIOS.App.Clipboard.Controls"
+             Margin="0,0,0,18">
+    <!-- One "Emoji Gallery" group: label header + reflowing wrap of glyph
+         cells. The custom EmojiWrap Panel handles the wrap; glyphs are
+         populated by the code-behind. -->
+    <StackPanel>
+        <TextBlock x:Name="LabelText" Text=""
+                   Foreground="#333"
+                   FontSize="13"
+                   Margin="0,0,0,8" />
+        <local:EmojiWrap x:Name="Cells" />
+    </StackPanel>
+</UserControl>

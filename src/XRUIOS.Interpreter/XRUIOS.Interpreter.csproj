@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- The XRUIOS interpreter: turns a capability call ("set the master volume to 40", "lock the
+       session", "show a toast") into the real OS action. Pure BCL on purpose - Windows goes through
+       Win32/COM P/Invoke, Linux through the standard desktop CLIs - so every worker can reference it
+       without dragging in a platform-specific TFM or extra packages. -->
+  <PropertyGroup>
+    <!-- net8.0 as well, so the Aether Engine (Godot .NET, net8) can reference it through XRUIOS.Aether. -->
+    <TargetFrameworks>net10.0;net8.0</TargetFrameworks>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>XRUIOS.Interpreter</RootNamespace>
+    <AssemblyName>XRUIOS.Interpreter</AssemblyName>
+  </PropertyGroup>
+
+  <!-- The probe's selftest drives the Linux output parsers directly, on any OS. -->
+  <ItemGroup>
+    <InternalsVisibleTo Include="XRUIOS.Interpreter.Probe" />
+  </ItemGroup>
+
+</Project>

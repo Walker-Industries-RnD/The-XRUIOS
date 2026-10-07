@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Calendar OpenSilver app. Two windows: MainPage (Day view) and MonthView
+       (Month grid + side agenda). The Photino host opens Day first; the user
+       switches to Month via the header, which asks the host to spawn a second
+       PhotinoWindow. Same app process Ã¢â‚¬â€ matches "one folder = one app". -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <DefineSilverlight>true</DefineSilverlight>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenSilver" Version="3.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\XRUIOS.Apps.Shared\XRUIOS.Apps.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="Controls\*.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MonthView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="App.xaml.cs" />
+    <Compile Include="Controls\*.cs" />
+    <Compile Include="MainPage.xaml.cs" />
+    <Compile Include="MonthView.xaml.cs" />
+  </ItemGroup>
+
+</Project>

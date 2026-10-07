@@ -1,0 +1,52 @@
+<UserControl x:Class="XRUIOS.Apps.Shared.Widgets.WidgetChrome"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!--
+      Container for every non-1920x1080 app. Photino host opens a borderless,
+      transparent-background window; this UserControl paints the widget card
+      and hosts the app's real content in <ContentPresenter>. The whole top
+      strip is a drag handle wired in code-behind via Photino's window-move IPC.
+    -->
+
+    <Border Background="#1E1E23"
+            CornerRadius="14"
+            BorderBrush="#2B2B33"
+            BorderThickness="1">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="34" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <!-- drag strip. code-behind attaches PointerPressed to start a Photino window move. -->
+            <Border x:Name="DragStrip"
+                    Grid.Row="0"
+                    Background="Transparent">
+                <Grid>
+                    <TextBlock x:Name="TitleText"
+                               VerticalAlignment="Center"
+                               Margin="14,0,0,0"
+                               Foreground="#A6A6B0"
+                               FontSize="12"
+                               Text="widget" />
+                    <StackPanel Orientation="Horizontal"
+                                HorizontalAlignment="Right"
+                                VerticalAlignment="Center"
+                                Margin="0,0,10,0">
+                        <Button x:Name="PinButton"
+                                Width="22" Height="22" Padding="0"
+                                Background="Transparent" BorderThickness="0"
+                                Foreground="#A6A6B0" Content="◈" />
+                        <Button x:Name="CloseButton"
+                                Width="22" Height="22" Padding="0" Margin="6,0,0,0"
+                                Background="Transparent" BorderThickness="0"
+                                Foreground="#A6A6B0" Content="✕" />
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <ContentPresenter x:Name="BodyPresenter" Grid.Row="1" />
+        </Grid>
+    </Border>
+</UserControl>

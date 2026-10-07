@@ -1,0 +1,93 @@
+<Page x:Class="XRUIOS.App.Calendar.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:c="clr-namespace:XRUIOS.App.Calendar.Controls"
+      xmlns:s="clr-namespace:XRUIOS.Apps.Shared;assembly=XRUIOS.Apps.Shared"
+      Background="#EDEDED">
+
+    <!-- Day view. Purple hero on top with the date + counts + line-art
+         figure decoration on the right. Card strip below (real events
+         come from the Calendar worker via AppShell.Broker.GetEvents;
+         sample cards render until the first fetch returns). -->
+
+    <Grid>
+        <!-- COMPARE MODE: mockup overlay for 1:1 tuning. Delete when done. -->
+        <Image Source="assets/day_mockup.png" Stretch="Uniform" Opacity="0.40" IsHitTestVisible="False" Grid.RowSpan="99" Grid.ColumnSpan="99" Canvas.ZIndex="1000" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*" />
+            <RowDefinition Height="55*" />
+        </Grid.RowDefinitions>
+
+        <!-- HERO -->
+        <Border Grid.Row="0" Background="#4B2599">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60*" />
+                    <ColumnDefinition Width="40*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0" Margin="72,48,32,40">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="5*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="2*" />
+                        <RowDefinition Height="1.5*" />
+                    </Grid.RowDefinitions>
+
+                    <Viewbox Grid.Row="0" HorizontalAlignment="Left" Stretch="Uniform" StretchDirection="DownOnly">
+                        <TextBlock x:Name="DateHeader"
+                                   Text="December 20th, 2022"
+                                   Foreground="White"
+                                   FontSize="220"
+                                   FontWeight="Light" />
+                    </Viewbox>
+
+                    <Viewbox Grid.Row="2" HorizontalAlignment="Left" Stretch="Uniform" StretchDirection="DownOnly">
+                        <TextBlock x:Name="EventCountLine"
+                                   Text="10 Upcoming Events"
+                                   Foreground="White"
+                                   FontSize="70"
+                                   FontWeight="Light" />
+                    </Viewbox>
+
+                    <Viewbox Grid.Row="3" HorizontalAlignment="Left" Stretch="Uniform" StretchDirection="DownOnly">
+                        <TextBlock x:Name="ReminderLine"
+                                   Text="+999 Reminders and +999 Events"
+                                   Foreground="White"
+                                   FontSize="60"
+                                   FontWeight="Light"
+                                   Opacity="0.9" />
+                    </Viewbox>
+                </Grid>
+
+                <!-- Right: decorative rings, swap for the real illustration
+                     once wwwroot/decoration.png exists. -->
+                <c:HeroDecoration Grid.Column="1" />
+            </Grid>
+        </Border>
+
+        <!-- EVENT CARD STRIP -->
+        <ItemsControl x:Name="Events" Grid.Row="1">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <c:EventStripPanel />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+        </ItemsControl>
+
+        <!-- Status pill: compact, bottom-right, over the card strip -->
+        <Border HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                Grid.Row="1"
+                Background="#22000000"
+                Padding="10,3"
+                CornerRadius="6"
+                Margin="0,0,10,10">
+            <TextBlock x:Name="StatusLine"
+                       Text="loading..."
+                       Foreground="#F0F0F0"
+                       FontSize="10" />
+        </Border>
+
+        <s:SceneSwitchButton Grid.RowSpan="2" />
+    </Grid>
+</Page>

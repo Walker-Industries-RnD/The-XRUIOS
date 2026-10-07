@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- End-to-end tests. A broker client like any other app: it connects to a RUNNING Manager and calls
+       the real workers. Run it with run-e2e.ps1, which starts a Manager on a throwaway data root. -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>XRUIOS.E2E</RootNamespace>
+    <AssemblyName>XRUIOS.E2E</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XRUIOS.SecureLayer\XRUIOS.SecureLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EclipseProject"><HintPath>..\..\libs\EclipseProject.dll</HintPath></Reference>
+    <Reference Include="EclipseLCL"><HintPath>..\..\libs\EclipseLCL.dll</HintPath></Reference>
+    <Reference Include="PariahCybersecurity"><HintPath>..\..\libs\PariahCybersecurity.dll</HintPath></Reference>
+  </ItemGroup>
+
+</Project>

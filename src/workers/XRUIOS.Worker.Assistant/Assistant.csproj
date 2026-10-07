@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <!-- The Assistant worker owns PocketPal's conversation store. It has no system class of its own:
+       which model answers is the developer's choice, made in a provider app (see Capabilities.cs). -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>XRUIOS.Worker.Assistant</RootNamespace>
+    <AssemblyName>XRUIOS.Worker.Assistant</AssemblyName>
+  </PropertyGroup>
+
+</Project>

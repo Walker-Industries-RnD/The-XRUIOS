@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Drive the interpreter directly (no Manager, no workers) to check a machine's backend.
+       Usage: see Program.cs (e.g. "probe list", "probe audio.master.set volume=40"). -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>XRUIOS.Interpreter.Probe</RootNamespace>
+    <AssemblyName>XRUIOS.Interpreter.Probe</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XRUIOS.Interpreter\XRUIOS.Interpreter.csproj" />
+  </ItemGroup>
+
+</Project>

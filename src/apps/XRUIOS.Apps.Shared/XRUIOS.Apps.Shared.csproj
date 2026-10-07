@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Cross-app library. Every UI app pulls this in for:
+      - WidgetChrome (draggable borderless window content for non-1920x1080 apps)
+      - WorkerBroker + AppShell (the ONE place we open a link to the XRUIOS Manager)
+      - Holes/*    (the concrete integration points; each app calls these instead
+        of the raw Worker capabilities)
+
+    Follows the same conventions as the OpenSilver template projects: explicit
+    file lists (EnableDefaultItems=false) and OpenSilver 3.3.3 pinned per
+    project so every unit under src/apps/ moves in lockstep.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <DefineSilverlight>true</DefineSilverlight>
+    <RootNamespace>XRUIOS.Apps.Shared</RootNamespace>
+    <AssemblyName>XRUIOS.Apps.Shared</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenSilver" Version="3.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\XRUIOS.SecureLayer\XRUIOS.SecureLayer.csproj" />
+    <ProjectReference Include="..\..\XRUIOS.Interfaces\XRUIOS.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="Widgets\WidgetChrome.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="AppShell.cs" />
+    <Compile Include="SceneCycler.cs" />
+    <Compile Include="WorkerBroker.cs" />
+    <Compile Include="Widgets\WidgetChrome.xaml.cs" />
+    <Compile Include="Holes\AppLaunchTarget.cs" />
+    <Compile Include="Holes\CalendarPicker.cs" />
+    <Compile Include="Holes\ClipboardHistory.cs" />
+    <Compile Include="Holes\KeyboardLayoutPicker.cs" />
+    <Compile Include="Holes\MediaAlbumPicker.cs" />
+    <Compile Include="Holes\NotificationFeed.cs" />
+    <Compile Include="Holes\PocketPalIntent.cs" />
+    <Compile Include="Holes\PowerControl.cs" />
+    <Compile Include="Holes\ThemePicker.cs" />
+    <Compile Include="Holes\TimeSource.cs" />
+    <Compile Include="Holes\VolumeMixer.cs" />
+    <Compile Include="Holes\WeatherFeed.cs" />
+    <Compile Include="Holes\WorldEventsFeed.cs" />
+    <Compile Include="Holes\EventFeed.cs" />
+    <Compile Include="AssistantProvider.cs" />
+  </ItemGroup>
+
+</Project>

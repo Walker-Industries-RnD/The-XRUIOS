@@ -1,0 +1,40 @@
+<Project>
+
+  <!--
+    Shared build config for every XRUIOS UI app under src/apps/.
+
+    Each app is generated from the official OpenSilver template
+    ("dotnet new opensilverapp" with the usePhotino flag), which creates four projects
+    (App / App.Browser / App.Photino / App.Simulator) and a .sln inside
+    src/apps/XRUIOS.App.<Name>/. Alongside those we add:
+      - XRUIOS.App.<Name>.Controls  (dotnet new opensilverlib) - the per-app
+        control library the user asked for; anything reusable within one app
+        lives here so the trimmer can keep the main assembly small.
+      - a ProjectReference to ../../XRUIOS.Apps.Shared  (holes + WidgetChrome
+        + WorkerBroker - the ONE place we talk to XRUIOS workers).
+
+    Memory settings below are OpenSilver's own recommendations
+    (https://doc.opensilver.net/documentation/general/optimizing-app-size-and-performance.html).
+    They apply to every app + host under this folder without editing individual
+    csproj files. The template's OpenSilver package version stays in each csproj
+    where the template put it - we don't override it here.
+  -->
+
+  <PropertyGroup>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <BlazorEnableCompression>true</BlazorEnableCompression>
+    <WasmStripILAfterAOT>true</WasmStripILAfterAOT>
+    <TieredCompilation>true</TieredCompilation>
+    <TieredCompilationQuickJit>true</TieredCompilationQuickJit>
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <PublishTrimmed>true</PublishTrimmed>
+    <TrimMode>partial</TrimMode>
+    <!-- OpenSilver.Photino's JS bridge round-trips values through
+         System.Text.Json using reflection. .NET 10 default under trim
+         analysis is to disable reflection-based serialization; re-enable it
+         here so the WebView sees the drawing calls the OpenSilver runtime
+         wants to make. Without this the window boots to a blank client area. -->
+    <JsonSerializerIsReflectionEnabledByDefault>true</JsonSerializerIsReflectionEnabledByDefault>
+  </PropertyGroup>
+
+</Project>

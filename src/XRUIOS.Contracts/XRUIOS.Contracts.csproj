@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- SecureData (WISecureData) lives in Pariah; IXruiosContext exposes it. -->
+  <ItemGroup>
+    <Reference Include="PariahCybersecurity">
+      <HintPath>..\..\libs\PariahCybersecurity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

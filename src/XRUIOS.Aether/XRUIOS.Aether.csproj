@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- The Aether Engine side of the XRUIOS. Godot .NET projects target net8.0, and the rest of the
+       XRUIOS targets net10.0, so this library compiles the CLIENT half of the secure layer (connect,
+       enroll, events) for net8.0 from the same source files instead of referencing the net10 build.
+       Reference it from an Aether/Godot project and drive it with AetherShell. -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>XRUIOS.Aether</RootNamespace>
+    <AssemblyName>XRUIOS.Aether</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\XRUIOS.SecureLayer\EclipseSecureClient.cs" Link="SecureLayer\EclipseSecureClient.cs" />
+    <Compile Include="..\XRUIOS.SecureLayer\PqcGate.cs" Link="SecureLayer\PqcGate.cs" />
+    <Compile Include="..\XRUIOS.SecureLayer\XruiosEvents.cs" Link="SecureLayer\XruiosEvents.cs" />
+    <Compile Include="..\XRUIOS.SecureLayer\XruiosEventStream.cs" Link="SecureLayer\XruiosEventStream.cs" />
+    <Compile Include="..\XRUIOS.SecureLayer\XruiosEnrollment.cs" Link="SecureLayer\XruiosEnrollment.cs" />
+    <Compile Include="..\XRUIOS.SecureLayer\AppProvisioning.cs" Link="SecureLayer\AppProvisioning.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XRUIOS.Interpreter\XRUIOS.Interpreter.csproj" />
+  </ItemGroup>
+
+  <!-- Client-side packages only (no ASP.NET / MagicOnion.Server). Versions match XRUIOS.SecureLayer. -->
+  <ItemGroup>
+    <PackageReference Include="MagicOnion.Client" Version="7.10.0" />
+    <PackageReference Include="Grpc.Net.Client" Version="2.71.0" />
+    <PackageReference Include="MessagePack" Version="3.1.8" />
+    <PackageReference Include="BouncyCastle.NetCore" Version="2.2.1" />
+    <PackageReference Include="Konscious.Security.Cryptography.Argon2" Version="1.3.1" />
+    <PackageReference Include="Ceras" Version="4.1.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PariahCybersecurity"><HintPath>..\..\libs\PariahCybersecurity.dll</HintPath></Reference>
+    <Reference Include="EclipseProject"><HintPath>..\..\libs\EclipseProject.dll</HintPath></Reference>
+    <Reference Include="EclipseLCL"><HintPath>..\..\libs\EclipseLCL.dll</HintPath></Reference>
+  </ItemGroup>
+
+</Project>

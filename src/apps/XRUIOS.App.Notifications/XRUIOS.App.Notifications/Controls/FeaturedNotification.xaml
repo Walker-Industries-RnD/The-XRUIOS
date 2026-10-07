@@ -1,0 +1,50 @@
+<UserControl x:Class="XRUIOS.App.Notifications.Controls.FeaturedNotification"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Margin="12,12,12,0">
+    <!-- Featured card. Hero art comes from assets/featured.png (cropped
+         from the Notifications mockup - swap the file to iterate). YuukOS
+         badge is assets/yuuk_logo.png. -->
+    <Grid>
+        <Border Background="#22000000" CornerRadius="12" Margin="2,3,0,0" />
+        <Border Background="White" CornerRadius="12" ClipToBounds="True">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="260" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Image Grid.Row="0" Source="assets/featured.png" Stretch="UniformToFill" />
+
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="24,20,24,4">
+                    <Image Source="assets/yuuk_logo.png" Width="28" Height="28"
+                           Margin="0,0,14,0" />
+                    <TextBlock x:Name="TitleText" Text=""
+                               FontSize="22" FontWeight="Light" Foreground="#111"
+                               VerticalAlignment="Center" TextWrapping="Wrap" />
+                </StackPanel>
+
+                <TextBlock Grid.Row="2" x:Name="BodyText" Text=""
+                           FontSize="14" FontWeight="Light" Foreground="#333"
+                           Margin="24,8,24,22" TextWrapping="Wrap" LineHeight="20" />
+
+                <Grid Grid.Row="3" Margin="24,0,24,24">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0" Content="Confirm"
+                            Background="#ECECEC" Foreground="#111" BorderThickness="0"
+                            Padding="0,16" FontSize="15" Margin="0,0,6,0"
+                            HorizontalContentAlignment="Center" />
+                    <Button Grid.Column="1" Content="Dismiss"
+                            Background="#ECECEC" Foreground="#111" BorderThickness="0"
+                            Padding="0,16" FontSize="15" Margin="6,0,0,0"
+                            HorizontalContentAlignment="Center" />
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

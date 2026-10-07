@@ -1,0 +1,64 @@
+<Page x:Class="XRUIOS.App.Gallery.ImagesView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:c="clr-namespace:XRUIOS.App.Gallery.Controls"
+      xmlns:s="clr-namespace:XRUIOS.Apps.Shared;assembly=XRUIOS.Apps.Shared"
+      Background="White">
+
+    <!-- Gallery - Images scene. Tabs + search bar, then a date header and a
+         responsive image thumbnail grid. -->
+
+    <Grid Margin="24">
+        <!-- COMPARE MODE: mockup overlay for 1:1 tuning. Delete when done. -->
+        <Image Source="assets/images_mockup.png" Stretch="Uniform" Opacity="0.40" IsHitTestVisible="False" Grid.RowSpan="99" Grid.ColumnSpan="99" Canvas.ZIndex="1000" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*"    />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*"    />
+            </Grid.ColumnDefinitions>
+            <c:NavTabs Grid.Column="0" Selected="Images" />
+            <Border Grid.Column="1"
+                    Background="#F6F8FB"
+                    BorderBrush="#DDE2EA"
+                    BorderThickness="1"
+                    CornerRadius="8"
+                    Padding="16,10"
+                    Margin="16,4,0,4">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="*"    />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="\U0001F50D" FontSize="16" VerticalAlignment="Center" />
+                    <TextBox Grid.Column="1"
+                             Text="Enter Theme Name Here"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Foreground="#888"
+                             FontSize="16"
+                             Margin="10,0,0,0"
+                             VerticalContentAlignment="Center" />
+                </Grid>
+            </Border>
+        </Grid>
+
+        <TextBlock Grid.Row="1"
+                   x:Name="DateHeader"
+                   Text="9.3.2026"
+                   Foreground="#111"
+                   FontSize="24"
+                   Margin="0,20,0,10" />
+
+        <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Auto">
+            <c:AlbumGrid x:Name="Photos" Columns="5" />
+        </ScrollViewer>
+
+        <s:SceneSwitchButton Grid.RowSpan="3" />
+    </Grid>
+</Page>

@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Compile-check harness: builds every copied system class together to confirm the 1:1 port
+       compiles against the new foundation. The real workers each compile only their own file from
+       ..\systems\ (Phase 4) and do NOT reference this project. -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>XRUIOS.Barebones.Functions</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\systems\*.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XRUIOS.Contracts\XRUIOS.Contracts.csproj" />
+    <ProjectReference Include="..\XRUIOS.Core\XRUIOS.Core.csproj" />
+    <ProjectReference Include="..\YuukoProtocol.XRUIOS.Interfaces\YuukoProtocol.XRUIOS.Interfaces.csproj" />
+    <ProjectReference Include="..\XRUIOS.Interfaces\XRUIOS.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AL-FileSystemWatcher" Version="1.0.0" />
+    <PackageReference Include="BouncyCastle.NetCore" Version="2.2.1" />
+    <PackageReference Include="Ceras" Version="4.1.7" />
+    <PackageReference Include="Data.HashFunction.Blake3" Version="3.1.2" />
+    <PackageReference Include="EasyCompressor.LZ4" Version="2.1.0" />
+    <PackageReference Include="GeoCoordinate.NetCore" Version="1.0.0.1" />
+    <PackageReference Include="Hangfire" Version="1.8.22" />
+    <PackageReference Include="Hangfire.MemoryStorage" Version="1.8.1.2" />
+    <PackageReference Include="Ical.Net" Version="5.2.0" />
+    <PackageReference Include="IconLib" Version="0.74.3" />
+    <PackageReference Include="Interop.IWshRuntimeLibrary" Version="1.0.1" />
+    <PackageReference Include="K4os.Compression.LZ4" Version="1.3.8" />
+    <PackageReference Include="Konscious.Security.Cryptography.Argon2" Version="1.3.1" />
+    <PackageReference Include="Microsoft.Maui.Essentials" Version="10.0.30" />
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="7.1.3" />
+    <PackageReference Include="NetAdmin.CsvHelper" Version="1.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="Silk.NET.OpenXR" Version="2.23.0" />
+    <PackageReference Include="Standart.Hash.xxHash" Version="4.0.5" />
+    <PackageReference Include="System.Data.HashFunction.Interfaces" Version="2.0.0" />
+    <PackageReference Include="System.DirectoryServices.AccountManagement" Version="10.0.0" />
+    <PackageReference Include="System.Drawing.Common" Version="10.0.2" />
+    <PackageReference Include="System.Management" Version="10.0.2" />
+    <PackageReference Include="z440.atl.core" Version="7.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="KeeperOfTomes"><HintPath>..\..\libs\KeeperOfTomes.dll</HintPath></Reference>
+    <Reference Include="PariahCybersecurity"><HintPath>..\..\libs\PariahCybersecurity.dll</HintPath></Reference>
+    <Reference Include="Secure Store"><HintPath>..\..\libs\Secure Store.dll</HintPath></Reference>
+  </ItemGroup>
+
+</Project>

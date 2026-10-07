@@ -1,0 +1,14 @@
+# System-wide systemd unit template. Copy to /etc/systemd/system/xruios.service, adjust ExecStart, then:
+#   sudo systemctl daemon-reload && sudo systemctl enable --now xruios
+# (The Manager's `install` verb instead writes a per-user unit under ~/.config/systemd/user/.)
+[Unit]
+Description=XRUIOS Manager
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/opt/xruios/XRUIOS.Manager run
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

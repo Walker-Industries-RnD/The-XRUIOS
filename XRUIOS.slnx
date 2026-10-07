@@ -1,0 +1,183 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/XRUIOS.AetherModTest/XRUIOS.AetherModTest.csproj" />
+    <Project Path="src/XRUIOS.Contracts/XRUIOS.Contracts.csproj" />
+    <Project Path="src/XRUIOS.Diagnostics/XRUIOS.Diagnostics.csproj" />
+    <Project Path="src/XRUIOS.E2E/XRUIOS.E2E.csproj" />
+    <Project Path="src/XRUIOS.Core/XRUIOS.Core.csproj" />
+    <Project Path="src/XRUIOS.Interfaces/XRUIOS.Interfaces.csproj" />
+    <Project Path="src/XRUIOS.Interpreter/XRUIOS.Interpreter.csproj" />
+    <Project Path="src/XRUIOS.Interpreter.Probe/XRUIOS.Interpreter.Probe.csproj" />
+    <Project Path="src/XRUIOS.Aether/XRUIOS.Aether.csproj" />
+    <Project Path="src/XRUIOS.Manager/XRUIOS.Manager.csproj" />
+    <Project Path="src/XRUIOS.SampleApp/XRUIOS.SampleApp.csproj" />
+    <Project Path="src/XRUIOS.SecureLayer/XRUIOS.SecureLayer.csproj" />
+    <Project Path="src/XRUIOS.Systems/XRUIOS.Systems.csproj" />
+    <Project Path="src/YuukoProtocol.XRUIOS.Interfaces/YuukoProtocol.XRUIOS.Interfaces.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/">
+    <Project Path="src/workers/XRUIOS.Worker.Calendar/XRUIOS.Worker.Calendar.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Alarm/">
+    <Project Path="src/workers/XRUIOS.Worker.Alarm/Alarm.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.App/">
+    <Project Path="src/workers/XRUIOS.Worker.App/App.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.AreaManager/">
+    <Project Path="src/workers/XRUIOS.Worker.AreaManager/AreaManager.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Chrono/">
+    <Project Path="src/workers/XRUIOS.Worker.Chrono/Chrono.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Clipboard/">
+    <Project Path="src/workers/XRUIOS.Worker.Clipboard/Clipboard.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Creator/">
+    <Project Path="src/workers/XRUIOS.Worker.Creator/Creator.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.DataManager/">
+    <Project Path="src/workers/XRUIOS.Worker.DataManager/DataManager.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.DeviceManager/">
+    <Project Path="src/workers/XRUIOS.Worker.DeviceManager/DeviceManager.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.ExperimentalVolume/">
+    <Project Path="src/workers/XRUIOS.Worker.ExperimentalVolume/ExperimentalVolume.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Geo/">
+    <Project Path="src/workers/XRUIOS.Worker.Geo/Geo.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Identity/">
+    <Project Path="src/workers/XRUIOS.Worker.Identity/Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.MediaAlbum/">
+    <Project Path="src/workers/XRUIOS.Worker.MediaAlbum/MediaAlbum.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.MediaTagger/">
+    <Project Path="src/workers/XRUIOS.Worker.MediaTagger/MediaTagger.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.MusicPlayer/">
+    <Project Path="src/workers/XRUIOS.Worker.MusicPlayer/MusicPlayer.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Note/">
+    <Project Path="src/workers/XRUIOS.Worker.Note/Note.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Notification/">
+    <Project Path="src/workers/XRUIOS.Worker.Notification/Notification.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Processes/">
+    <Project Path="src/workers/XRUIOS.Worker.Processes/Processes.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.RecentlyRecorded/">
+    <Project Path="src/workers/XRUIOS.Worker.RecentlyRecorded/RecentlyRecorded.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Songs/">
+    <Project Path="src/workers/XRUIOS.Worker.Songs/Songs.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.SoundEQ/">
+    <Project Path="src/workers/XRUIOS.Worker.SoundEQ/SoundEQ.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Stopwatch/">
+    <Project Path="src/workers/XRUIOS.Worker.Stopwatch/Stopwatch.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.SystemInfo/">
+    <Project Path="src/workers/XRUIOS.Worker.SystemInfo/SystemInfo.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Theme/">
+    <Project Path="src/workers/XRUIOS.Worker.Theme/Theme.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Timer/">
+    <Project Path="src/workers/XRUIOS.Worker.Timer/Timer.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Volume/">
+    <Project Path="src/workers/XRUIOS.Worker.Volume/Volume.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.WorldEvents/">
+    <Project Path="src/workers/XRUIOS.Worker.WorldEvents/WorldEvents.csproj" />
+  </Folder>
+  <Folder Name="/src/workers/XRUIOS.Worker.Assistant/">
+    <Project Path="src/workers/XRUIOS.Worker.Assistant/Assistant.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/">
+    <Project Path="src/apps/XRUIOS.Apps.Shared/XRUIOS.Apps.Shared.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.AppLauncher/">
+    <Project Path="src/apps/XRUIOS.App.AppLauncher/XRUIOS.App.AppLauncher/XRUIOS.App.AppLauncher.csproj" />
+    <Project Path="src/apps/XRUIOS.App.AppLauncher/XRUIOS.App.AppLauncher.Browser/XRUIOS.App.AppLauncher.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.AppLauncher/XRUIOS.App.AppLauncher.Photino/XRUIOS.App.AppLauncher.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.AppLauncher/XRUIOS.App.AppLauncher.Simulator/XRUIOS.App.AppLauncher.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.Calendar/">
+    <Project Path="src/apps/XRUIOS.App.Calendar/XRUIOS.App.Calendar/XRUIOS.App.Calendar.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Calendar/XRUIOS.App.Calendar.Browser/XRUIOS.App.Calendar.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Calendar/XRUIOS.App.Calendar.Photino/XRUIOS.App.Calendar.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Calendar/XRUIOS.App.Calendar.Simulator/XRUIOS.App.Calendar.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.Clipboard/">
+    <Project Path="src/apps/XRUIOS.App.Clipboard/XRUIOS.App.Clipboard/XRUIOS.App.Clipboard.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Clipboard/XRUIOS.App.Clipboard.Browser/XRUIOS.App.Clipboard.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Clipboard/XRUIOS.App.Clipboard.Photino/XRUIOS.App.Clipboard.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Clipboard/XRUIOS.App.Clipboard.Simulator/XRUIOS.App.Clipboard.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.Gallery/">
+    <Project Path="src/apps/XRUIOS.App.Gallery/XRUIOS.App.Gallery/XRUIOS.App.Gallery.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Gallery/XRUIOS.App.Gallery.Browser/XRUIOS.App.Gallery.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Gallery/XRUIOS.App.Gallery.Photino/XRUIOS.App.Gallery.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Gallery/XRUIOS.App.Gallery.Simulator/XRUIOS.App.Gallery.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.Keyboard/">
+    <Project Path="src/apps/XRUIOS.App.Keyboard/XRUIOS.App.Keyboard/XRUIOS.App.Keyboard.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Keyboard/XRUIOS.App.Keyboard.Browser/XRUIOS.App.Keyboard.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Keyboard/XRUIOS.App.Keyboard.Photino/XRUIOS.App.Keyboard.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Keyboard/XRUIOS.App.Keyboard.Simulator/XRUIOS.App.Keyboard.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.Notifications/">
+    <Project Path="src/apps/XRUIOS.App.Notifications/XRUIOS.App.Notifications/XRUIOS.App.Notifications.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Notifications/XRUIOS.App.Notifications.Browser/XRUIOS.App.Notifications.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Notifications/XRUIOS.App.Notifications.Photino/XRUIOS.App.Notifications.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Notifications/XRUIOS.App.Notifications.Simulator/XRUIOS.App.Notifications.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.PocketPal/">
+    <Project Path="src/apps/XRUIOS.App.PocketPal/XRUIOS.App.PocketPal/XRUIOS.App.PocketPal.csproj" />
+    <Project Path="src/apps/XRUIOS.App.PocketPal/XRUIOS.App.PocketPal.Browser/XRUIOS.App.PocketPal.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.PocketPal/XRUIOS.App.PocketPal.Photino/XRUIOS.App.PocketPal.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.PocketPal/XRUIOS.App.PocketPal.Simulator/XRUIOS.App.PocketPal.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.Power/">
+    <Project Path="src/apps/XRUIOS.App.Power/XRUIOS.App.Power/XRUIOS.App.Power.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Power/XRUIOS.App.Power.Browser/XRUIOS.App.Power.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Power/XRUIOS.App.Power.Photino/XRUIOS.App.Power.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Power/XRUIOS.App.Power.Simulator/XRUIOS.App.Power.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.ThemeEditor/">
+    <Project Path="src/apps/XRUIOS.App.ThemeEditor/XRUIOS.App.ThemeEditor/XRUIOS.App.ThemeEditor.csproj" />
+    <Project Path="src/apps/XRUIOS.App.ThemeEditor/XRUIOS.App.ThemeEditor.Browser/XRUIOS.App.ThemeEditor.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.ThemeEditor/XRUIOS.App.ThemeEditor.Photino/XRUIOS.App.ThemeEditor.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.ThemeEditor/XRUIOS.App.ThemeEditor.Simulator/XRUIOS.App.ThemeEditor.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.Time/">
+    <Project Path="src/apps/XRUIOS.App.Time/XRUIOS.App.Time/XRUIOS.App.Time.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Time/XRUIOS.App.Time.Browser/XRUIOS.App.Time.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Time/XRUIOS.App.Time.Photino/XRUIOS.App.Time.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Time/XRUIOS.App.Time.Simulator/XRUIOS.App.Time.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.VolumeManager/">
+    <Project Path="src/apps/XRUIOS.App.VolumeManager/XRUIOS.App.VolumeManager/XRUIOS.App.VolumeManager.csproj" />
+    <Project Path="src/apps/XRUIOS.App.VolumeManager/XRUIOS.App.VolumeManager.Browser/XRUIOS.App.VolumeManager.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.VolumeManager/XRUIOS.App.VolumeManager.Photino/XRUIOS.App.VolumeManager.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.VolumeManager/XRUIOS.App.VolumeManager.Simulator/XRUIOS.App.VolumeManager.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.Weather/">
+    <Project Path="src/apps/XRUIOS.App.Weather/XRUIOS.App.Weather/XRUIOS.App.Weather.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Weather/XRUIOS.App.Weather.Browser/XRUIOS.App.Weather.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Weather/XRUIOS.App.Weather.Photino/XRUIOS.App.Weather.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.Weather/XRUIOS.App.Weather.Simulator/XRUIOS.App.Weather.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/src/apps/XRUIOS.App.WorldEvents/">
+    <Project Path="src/apps/XRUIOS.App.WorldEvents/XRUIOS.App.WorldEvents/XRUIOS.App.WorldEvents.csproj" />
+    <Project Path="src/apps/XRUIOS.App.WorldEvents/XRUIOS.App.WorldEvents.Browser/XRUIOS.App.WorldEvents.Browser.csproj" />
+    <Project Path="src/apps/XRUIOS.App.WorldEvents/XRUIOS.App.WorldEvents.Photino/XRUIOS.App.WorldEvents.Photino.csproj" />
+    <Project Path="src/apps/XRUIOS.App.WorldEvents/XRUIOS.App.WorldEvents.Simulator/XRUIOS.App.WorldEvents.Simulator.csproj" />
+  </Folder>
+</Solution>

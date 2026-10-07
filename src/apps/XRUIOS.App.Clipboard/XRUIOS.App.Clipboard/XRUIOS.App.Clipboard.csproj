@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Clipboard app: three views (Compact widget, Wide 3-panel drill-down,
+       Share Bar popup). SceneCycler swaps them in the same window. -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <DefineSilverlight>true</DefineSilverlight>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenSilver" Version="3.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\XRUIOS.Apps.Shared\XRUIOS.Apps.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="Controls\*.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SharePopup.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="App.xaml.cs" />
+    <Compile Include="Controls\*.cs" />
+    <Compile Include="MainPage.xaml.cs" />
+    <Compile Include="WideView.xaml.cs" />
+    <Compile Include="SharePopup.xaml.cs" />
+  </ItemGroup>
+
+</Project>

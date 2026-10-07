@@ -1,0 +1,77 @@
+<Page x:Class="XRUIOS.App.Clipboard.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:c="clr-namespace:XRUIOS.App.Clipboard.Controls"
+      xmlns:w="clr-namespace:XRUIOS.Apps.Shared.Widgets;assembly=XRUIOS.Apps.Shared"
+      Background="Transparent">
+
+    <!-- Viewbox scales the mockup-native 1245x766 design uniformly to fit
+         whatever size the user drags the widget to. Everything inside can
+         keep using fixed pixel sizes lifted straight from the mockup. -->
+    <Viewbox Stretch="Uniform">
+    <w:WidgetChrome x:Name="Chrome" Title="CLIPBOARD" Width="1245" Height="766">
+        <w:WidgetChrome.Body>
+            <Grid Background="#E7E7E7">
+        <!-- COMPARE MODE: mockup overlay for 1:1 tuning. Delete when done. -->
+        <Image Source="assets/mockup.png" Stretch="Uniform" Opacity="0.40" IsHitTestVisible="False" Grid.RowSpan="99" Grid.ColumnSpan="99" Canvas.ZIndex="1000" />
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="370" />
+                    <ColumnDefinition Width="6"   />
+                    <ColumnDefinition Width="*"   />
+                </Grid.ColumnDefinitions>
+
+                <!-- LEFT: emoji gallery ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â categorized groups of glyphs. -->
+                <Grid Grid.Column="0" Margin="14">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*"    />
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0"
+                               Text="Emoji Gallery (999)"
+                               Foreground="#111"
+                               FontSize="13"
+                               Margin="0,0,0,8" />
+
+                    <c:SearchBar Grid.Row="1"
+                                 x:Name="EmojiSearch"
+                                 Placeholder="Enter Category Name Here" />
+
+                    <ScrollViewer Grid.Row="2" Margin="0,12,0,0"
+                                  VerticalScrollBarVisibility="Auto"
+                                  HorizontalScrollBarVisibility="Disabled">
+                        <StackPanel x:Name="EmojiGroups" />
+                    </ScrollViewer>
+                </Grid>
+
+                <!-- MIDDLE: subtle gutter between panels -->
+                <Border Grid.Column="1" Background="Transparent" />
+
+                <!-- RIGHT: media gallery ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â masonry-ish thumb grid. -->
+                <Grid Grid.Column="2" Margin="4,14,14,14">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*"    />
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0"
+                               Text="Media Gallery (999)"
+                               Foreground="#111"
+                               FontSize="13"
+                               Margin="0,0,0,8" />
+
+                    <c:SearchBar Grid.Row="1"
+                                 x:Name="MediaSearch"
+                                 Placeholder="Search Media" />
+
+                    <ScrollViewer Grid.Row="2" Margin="0,12,0,0">
+                        <c:MediaWrap x:Name="Media" />
+                    </ScrollViewer>
+                </Grid>
+            </Grid>
+        </w:WidgetChrome.Body>
+    </w:WidgetChrome>
+    </Viewbox>
+</Page>

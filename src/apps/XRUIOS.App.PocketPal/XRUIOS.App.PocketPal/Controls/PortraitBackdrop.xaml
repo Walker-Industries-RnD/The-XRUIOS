@@ -1,0 +1,6 @@
+<UserControl x:Class="XRUIOS.App.PocketPal.Controls.PortraitBackdrop"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Portrait cropped from the PocketPal mockup (Group 2404.png). -->
+    <Image Source="assets/portrait.png" Stretch="UniformToFill" />
+</UserControl>

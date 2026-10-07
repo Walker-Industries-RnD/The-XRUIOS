@@ -1,0 +1,34 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+publish/
+artifacts/
+dist/
+
+# Visual Studio, Rider, VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+# Test and tooling output
+TestResults/
+*.log
+*.binlog
+*.nupkg
+
+# Local secrets and plaintext dev credentials (the Manager writes these only with --dev-creds)
+*.creds
+dev.key
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Keep the vendored libraries; they are not build output
+!libs/
+!libs/*.dll

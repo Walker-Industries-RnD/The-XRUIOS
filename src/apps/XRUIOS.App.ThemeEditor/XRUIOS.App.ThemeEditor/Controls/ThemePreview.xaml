@@ -1,0 +1,12 @@
+<UserControl x:Class="XRUIOS.App.ThemeEditor.Controls.ThemePreview"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Border>
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#D9E7EA" Offset="0" />
+                <GradientStop Color="#E7E0D4" Offset="1" />
+            </LinearGradientBrush>
+        </Border.Background>
+    </Border>
+</UserControl>

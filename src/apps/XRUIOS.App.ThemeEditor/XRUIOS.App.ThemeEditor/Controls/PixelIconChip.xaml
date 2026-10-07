@@ -1,0 +1,18 @@
+<UserControl x:Class="XRUIOS.App.ThemeEditor.Controls.PixelIconChip"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Floating pixel-art icon chip - white rounded square with a coloured
+         glyph. Glyph + Tint are exposed as DPs so the parent XAML can set
+         them declaratively. -->
+    <Border Width="110" Height="110"
+            Background="White"
+            CornerRadius="14"
+            BorderBrush="#EEEEEE"
+            BorderThickness="1">
+        <TextBlock x:Name="GlyphText"
+                   Text=""
+                   FontSize="52"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center" />
+    </Border>
+</UserControl>
