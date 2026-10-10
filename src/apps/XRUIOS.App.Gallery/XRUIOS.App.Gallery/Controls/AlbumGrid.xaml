@@ -1,7 +1,0 @@
-<UserControl x:Class="XRUIOS.App.Gallery.Controls.AlbumGrid"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <!-- N-column tile grid for album / photo covers. `TileHost` is populated
-         by Add(UIElement). -->
-    <Grid x:Name="TileHost" />
-</UserControl>

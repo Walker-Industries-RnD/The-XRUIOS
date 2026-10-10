@@ -1,8 +1,0 @@
-<UserControl x:Class="XRUIOS.App.AppLauncher.Controls.AppTileGrid"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <!-- Container for N equal-width columns of app tiles. `TileHost` is
-         filled in by the code-behind's Add(UIElement); columns are added
-         lazily on the first Add. -->
-    <Grid x:Name="TileHost" />
-</UserControl>

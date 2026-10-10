@@ -1,6 +1,0 @@
-<UserControl x:Class="XRUIOS.App.Calendar.Controls.HeroDecoration"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <!-- Right-side character crop from the Day mockup (Group 2258.png). -->
-    <Image Source="assets/day_hero.png" Stretch="UniformToFill" />
-</UserControl>

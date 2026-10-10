@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Assistant": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53338;http://localhost:53339"
+    }
+  }
+}

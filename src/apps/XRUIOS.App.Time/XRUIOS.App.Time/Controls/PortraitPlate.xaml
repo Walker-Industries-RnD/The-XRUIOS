@@ -1,8 +1,0 @@
-<UserControl x:Class="XRUIOS.App.Time.Controls.PortraitPlate"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <!-- Left-rail portrait cropped from the Time / Stopwatch mockup (Group 2386.png). -->
-    <Border Margin="14,14,14,8" CornerRadius="6" ClipToBounds="True">
-        <Image Source="assets/portrait.png" Stretch="UniformToFill" />
-    </Border>
-</UserControl>
