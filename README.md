@@ -26,7 +26,7 @@ This is a project I knew I wanted to make back since 2017 and after thousands of
 
 
 
-[![Watch the video](docs/assets/The%20XRUIOS%20-%20Making%20Two%20Realities%20One.png)](https://youtube.com)
+[![Watch the video](docs/assets/The%20XRUIOS%20-%20Making%20Two%20Realities%20One.png)](https://www.youtube.com/watch?v=k57HE32iYBk)
 
 
 ## Click the image to view the 3D Spatial Environment coming soon! 
